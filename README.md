@@ -12,8 +12,8 @@ Currently focused on mastering **React.js, JavaScript, HTML, and CSS** 🚀.
   ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-1971c2?style=for-the-badge&logo=tailwind-css&logoColor=fff), ![CSS3](https://img.shields.io/badge/CSS3-9c36b5?style=for-the-badge&logo=CSS3&logoColor=fff)
     
  **Tools:**
-   ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=tailwind-css&logoColor=fff)
-   ![VS Code](https://img.shields.io/badge/GitHub-228be6?style=for-the-badge&logo=tailwind-css&logoColor=fff)
+   ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=fff)
+   ![VS Code](https://img.shields.io/badge/VSCode-228be6?style=for-the-badge&logo=vscode&logoColor=fff)
 
 
 ## 🚀 Projects [LIVE DEMO ]
