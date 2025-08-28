@@ -1,4 +1,4 @@
-## Hello, I'm Siddharth! 👋
+### Hello, I'm Siddharth! 👋
 
 I'm an aspiring **Frontend Developer** passionate about building clean, responsive, and user-friendly web applications.  
 Currently focused on mastering **React.js, JavaScript, HTML, and CSS** 🚀. 
