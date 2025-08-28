@@ -6,6 +6,7 @@ Currently focused on mastering **React.js, JavaScript, HTML, and CSS** 🚀.
 
 ## 🔨 Skills & Technologies
  **Frontend:**
+ 
 ![React](https://img.shields.io/badge/React-4dabf7?style=for-the-badge&logo=react&logoColor=fff) ![JavaScript](https://img.shields.io/badge/JavaScript-fab005?style=for-the-badge&logo=JavaScript&logoColor=fff) ![HTML5](https://img.shields.io/badge/HTML5-fd7e14?style=for-the-badge&logo=HTML5&logoColor=fff)
 
  **Styling:**
@@ -17,8 +18,8 @@ Currently focused on mastering **React.js, JavaScript, HTML, and CSS** 🚀.
   ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=fff) ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 
-## 🚀 Projects [LIVE DEMO ]
-**1. 📽️ MovieSearch** - Search and Rate your Favourite Movie
+## 🚀 Projects
+- 📽️ MovieSearch** - Search and Rate your Favourite Movie
 - 🌏 WorldTour - List out The Adventure City you went too
 - 🍕 Fast Pizza - Order your Favourite Pizza
 - 💡❓ React Quiz - Answer The MCQ regarding React
@@ -27,3 +28,5 @@ Currently focused on mastering **React.js, JavaScript, HTML, and CSS** 🚀.
 - ✅ To Pack Item – List out your Item to be Packed for Picnic  
 - 🎨 Portfolio Website – Showcasing my skills & projects  
 
+## ❤️‍🔥 Click Here To Find All Repo of Above Projects
+-[GitHub Repo](https://github.com/Elizyd-gitverse)
