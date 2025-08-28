@@ -1,7 +1,7 @@
 Hi there, I'm Siddharth! 🚀
 
 I'm an aspiring **Frontend Developer** passionate about building clean, responsive, and user-friendly web applications.  
-Currently focused on mastering React.js, JavaScript, HTML, and CSS 🚀. 
+Currently focused on mastering **React.js, JavaScript, HTML, and CSS** 🚀. 
 
 ## 🔨 Skills & Technologies
 - **Frontend:** React, JavaScript, HTML5, CSS3  
@@ -18,4 +18,4 @@ Currently focused on mastering React.js, JavaScript, HTML, and CSS 🚀.
 ---
 
 ## 📫 Connect with Me
-- GitHub: 
+- [GitHub](https://github.com/Elizyd-gitverse) 
