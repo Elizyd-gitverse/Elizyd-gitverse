@@ -6,10 +6,10 @@ Currently focused on mastering **React.js, JavaScript, HTML, and CSS** 🚀.
 
 ## 🔨 Skills & Technologies
 - **Frontend:**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  ![JavaScript](https://img.shields.io/badge/JavaScript-fff3bf?style=for-the-badge&logo=JavaScript&logoColor=fff)  ![HTML5](https://img.shields.io/badge/HTML5-38B2AC?style=for-the-badge&logo=HTML5&logoColor=ffe066)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=fff)  ![JavaScript](https://img.shields.io/badge/JavaScript-fab005?style=for-the-badge&logo=JavaScript&logoColor=fff)  ![HTML5](https://img.shields.io/badge/HTML5-fd7e14?style=for-the-badge&logo=HTML5&logoColor=fff)
 
 - **Styling:**
-  ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white), ![CSS3](https://img.shields.io/badge/CSS3-38B2AC?style=for-the-badge&logo=CSS3&logoColor=ffe066)
+  ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-1971c2?style=for-the-badge&logo=tailwind-css&logoColor=fff), ![CSS3](https://img.shields.io/badge/CSS3-9c36b5?style=for-the-badge&logo=CSS3&logoColor=fff)
     
 - **Tools:**
   Git, GitHub, VS Code  
