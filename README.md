@@ -5,8 +5,8 @@ Currently focused on mastering **React.js, JavaScript, HTML, and CSS** 🚀.
 
 
 ## 🔨 Skills & Technologies
-- **Frontend:** React, JavaScript, HTML5, CSS3  
-- **Styling:** Tailwind CSS, CSS3  
+- **Frontend:** ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  ![JavaScript](https://img.shields.io/badge/JavaScript-38B2AC?style=for-the-badge&logo=JavaScript&logoColor=ffe066)  ![HTML5](https://img.shields.io/badge/HTML5-38B2AC?style=for-the-badge&logo=HTML5&logoColor=ffe066)  
+- **Styling:** ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white), ![CSS3](https://img.shields.io/badge/CSS3-38B2AC?style=for-the-badge&logo=CSS3&logoColor=ffe066)   
 - **Tools:** Git, GitHub, VS Code  
 
 
