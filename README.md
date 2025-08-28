@@ -5,14 +5,15 @@ Currently focused on mastering **React.js, JavaScript, HTML, and CSS** 🚀.
 
 
 ## 🔨 Skills & Technologies
-- **Frontend:**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=fff)  ![JavaScript](https://img.shields.io/badge/JavaScript-fab005?style=for-the-badge&logo=JavaScript&logoColor=fff)  ![HTML5](https://img.shields.io/badge/HTML5-fd7e14?style=for-the-badge&logo=HTML5&logoColor=fff)
+ **Frontend:**
+![React](https://img.shields.io/badge/React-4dabf7?style=for-the-badge&logo=react&logoColor=fff)  ![JavaScript](https://img.shields.io/badge/JavaScript-fab005?style=for-the-badge&logo=JavaScript&logoColor=fff)  ![HTML5](https://img.shields.io/badge/HTML5-fd7e14?style=for-the-badge&logo=HTML5&logoColor=fff)
 
-- **Styling:**
+ **Styling:**
   ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-1971c2?style=for-the-badge&logo=tailwind-css&logoColor=fff), ![CSS3](https://img.shields.io/badge/CSS3-9c36b5?style=for-the-badge&logo=CSS3&logoColor=fff)
     
-- **Tools:**
-  Git, GitHub, VS Code  
+ **Tools:**
+   ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=tailwind-css&logoColor=fff)
+   ![VS Code](https://img.shields.io/badge/GitHub-228be6?style=for-the-badge&logo=tailwind-css&logoColor=fff)
 
 
 ## 🚀 Projects [LIVE DEMO ]
