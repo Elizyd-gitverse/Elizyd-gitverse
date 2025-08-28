@@ -6,7 +6,6 @@ Currently focused on mastering **React.js, JavaScript, HTML, and CSS** 🚀.
 
 ## 🔨 Skills & Technologies
  **Frontend:**
- 
 ![React](https://img.shields.io/badge/React-4dabf7?style=for-the-badge&logo=react&logoColor=fff) ![JavaScript](https://img.shields.io/badge/JavaScript-fab005?style=for-the-badge&logo=JavaScript&logoColor=fff) ![HTML5](https://img.shields.io/badge/HTML5-fd7e14?style=for-the-badge&logo=HTML5&logoColor=fff)
 
  **Styling:**
