@@ -3,14 +3,12 @@
 I'm an aspiring **Frontend Developer** passionate about building clean, responsive, and user-friendly web applications.  
 Currently focused on mastering **React.js, JavaScript, HTML, and CSS** 🚀. 
 
----
 
 ## 🔨 Skills & Technologies
 - **Frontend:** React, JavaScript, HTML5, CSS3  
 - **Styling:** Tailwind CSS, CSS3  
 - **Tools:** Git, GitHub, VS Code  
 
----
 
 ## 🚀 Projects [LIVE DEMO ]
 **1. 📽️ MovieSearch** - Search and Rate your Favourite Movie
