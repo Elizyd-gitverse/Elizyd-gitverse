@@ -13,7 +13,7 @@ Currently focused on mastering **React.js, JavaScript, HTML, and CSS** 🚀.
     
  **Tools:**
    ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=fff)
-   ![VS Code](https://img.shields.io/badge/visual_studio_app-1c7ed6?style=for-the-badge&logo=github&logoColor=fff)
+   ![VS Code](https://img.shields.io/badge/visual_studio_app-1c7ed6?style=for-the-badge&logo=visual_studio_app&logoColor=fff)
 
 
 ## 🚀 Projects [LIVE DEMO ]
