@@ -23,7 +23,6 @@ Currently focused on mastering **React.js, JavaScript, HTML, and CSS** 🚀.
 - 🍕 Fast Pizza - Order your Favourite Pizza
 - 💡❓ React Quiz - Answer The MCQ regarding React
 - 🌞/🌛 Dark Light Mode - Switch Between Dark and Light Theme
-- 🍴 Forkify – Search and view cooking recipes  
 - ✅ To Pack Item – List out your Item to be Packed for Picnic  
 - 🎨 Portfolio Website – Showcasing my skills & projects  
 
