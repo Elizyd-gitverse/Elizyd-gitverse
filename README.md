@@ -19,6 +19,7 @@ Currently focused on mastering **React.js, Nodejs, Express, MongoDB, JavaScript,
 
 
 ## 🚀 Projects
+- 🌐 Natours - Database, Authentication, Authorization 
 - 📽️ MovieSearch - Search and Rate your Favourite Movie
 - 🌏 WorldTour - List out The Adventure City you went too
 - 🍕 Fast Pizza - Order your Favourite Pizza
