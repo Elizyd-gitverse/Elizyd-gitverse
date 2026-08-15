@@ -7,9 +7,7 @@ Currently focused on mastering **React.js, Nodejs, Express, MongoDB, JavaScript,
  **Frontend:**
  
 ![React](https://img.shields.io/badge/React-4dabf7?style=for-the-badge&logo=react&logoColor=fff)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=fff) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff)
-
- ![JavaScript](https://img.shields.io/badge/JavaScript-fab005?style=for-the-badge&logo=JavaScript&logoColor=fff) ![HTML5](https://img.shields.io/badge/HTML5-fd7e14?style=for-the-badge&logo=HTML5&logoColor=fff)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=fff) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff)![JavaScript](https://img.shields.io/badge/JavaScript-fab005?style=for-the-badge&logo=JavaScript&logoColor=fff) ![HTML5](https://img.shields.io/badge/HTML5-fd7e14?style=for-the-badge&logo=HTML5&logoColor=fff)
 
  **Styling:**
  
