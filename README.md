@@ -1,7 +1,7 @@
 ## Hello, I'm Siddharth! 👋
 
 I'm an aspiring **Frontend Developer** passionate about building clean, responsive, and user-friendly web applications.  
-Currently focused on mastering **React.js, Nodejs, Express, MongoDB, JavaScript, HTML, and CSS** 🚀. 
+Currently focused on mastering **React.js, React Query, Nodejs, Express, MongoDB, JavaScript, HTML, and CSS** 🚀. 
 
 ## 🔨 Skills & Technologies
  **Frontend:**
